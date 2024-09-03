@@ -1,0 +1,39 @@
+h1{
+    color: black;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(247, 238, 240);
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+.Paragraph{
+    color: rgb(2, 50, 2);
+    text-align: justify;
+    font-family: Impact, Haettenschweiler, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+
+}
+#Photo{
+     
+    border-color: brown;
+    border-style: solid;
+    border-width: 0.2cm;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    image-orientation: flip;
+    position: relative;
+    
+
+}
+li{
+    color:darkgreen;
+    font-size: 45px;
+}
